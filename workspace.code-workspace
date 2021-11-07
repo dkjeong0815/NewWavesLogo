@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "DC-FECourse",
+			"path": "c:\\Users\\dkjeong\\Dropbox\\DK Work Space\\JS-Proejct\\연습\\DC-FECourse"
+		},
+		{
+			"name": "IWebBook-1",
+			"path": "c:\\Users\\dkjeong\\Dropbox\\DK Work Space\\JS-Proejct\\연습\\IWebBook-1"
+		},
+		{
+			"path": "c:\\Users\\dkjeong\\Dropbox\\DK Work Space\\JS-Proejct\\연습\\Kallax-DK"
+		},
+		{
+			"path": "c:\\Users\\dkjeong\\Dropbox\\3DF WorkSpace\\3DF Homepage\\3dfhomepage-official"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "3dfhomepage-official"
+	}
+}
